@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emoji slider flow</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="section">
+            <div class="emojis">
+                <li class="slide-icon"><img src="emoji/emoji-1.png" alt="angry"></li>
+                <li><img src="emoji/emoji-2.png" alt="doubt"></li>
+                <li><img src="emoji/emoji-3.png" alt="happy"></li>
+                <li><img src="emoji/emoji-4.png" alt="love"></li>
+                <li><img src="emoji/emoji-5.png" alt="cute"></li>
+            </div>
+        </div>
+        <div class="slider">
+            <div class="thumb"><span></span></div>
+            <div class="progress-bar"></div>
+            <input type="range" min="0" max="100" value="0">
+        </div>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>
