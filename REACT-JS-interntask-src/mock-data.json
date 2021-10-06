@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "Name":"YuvanShankarRaja",
+        "Username":"YuvanElai76",
+        "eMail":"Yuvan77@gmail.com",
+        "phoneNumber":"6512112154",
+        "Website":"www.YSRmusic.com"
+    },
+    {
+        "id":2,
+        "Name":"AR Rahman",
+        "Username":"Rahman96S",
+        "eMail":"Rahman46@gmail.com",
+        "phoneNumber":"6512112554",
+        "Website":"www.ARRmusic.com"
+    },
+    {
+        "id":3,
+        "Name":"Vijay Antony",
+        "Username":"Vijaysaitan76",
+        "eMail":"Vijay38@gmail.com",
+        "phoneNumber":"6512587154",
+        "Website":"www.VIjAntNaKumusic.com"
+    },
+    {
+        "id":4,
+        "Name":"GV prakash",
+        "Username":"prakashSaind96",
+        "eMail":"prakash27@gmail.com",
+        "phoneNumber":"6514542154",
+        "Website":"www.GVPmusic.com"
+    },
+    {
+        "id":5,
+        "Name":"D Imaan",
+        "Username":"ImaanNels80",
+        "eMail":"Imaan87@gmail.com",
+        "phoneNumber":"5872112154",
+        "Website":"www.Iman-D-music.com"
+    }
+]
